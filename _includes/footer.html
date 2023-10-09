@@ -1,0 +1,65 @@
+<style>
+    /* Footer Styles */
+    .site-footer {
+      background-color: #f8f9fa;  /* light grey background */
+      padding: 20px 0;            /* 20px padding top and bottom */
+      font-size: 0.9em;          /* slightly smaller text */
+      text-align: center;        /* center everything */
+    }
+    
+    .site-footer a {
+      color: #007bff;            /* link color, change if needed */
+      margin: 0 15px;            /* horizontal spacing between links */
+      text-decoration: none;     /* remove underline from links */
+    }
+    
+    .site-footer a:hover {
+      text-decoration: underline; /* add underline on hover */
+    }
+    
+    .footer-col-wrapper {
+      display: flex;              /* make the columns side by side */
+      justify-content: space-between; /* distribute space between columns */
+      max-width: 800px;          /* set a max width for the content */
+      margin: 0 auto;            /* center the content */
+    }
+    
+    .footer-col {
+      flex: 1;                   /* make the columns flexible */
+      padding: 0 15px;           /* padding on the sides */
+    }
+    
+    .contact-list {
+      list-style-type: none;      /* remove bullet points */
+      padding-left: 0;            /* remove default padding */
+    }
+    
+    .social-links {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;          
+    }
+    .social-links li {
+      margin-top: 5px;  
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+</style>
+    
+
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <div class="wrapper">
+  
+      <div class="social-links">
+        <a class="u-email" href="mailto:{{ site.author.email }}" style="margin-bottom: 10px;">{{ site.email }}</a>
+        {%- include social.html -%}
+      </div>
+  
+    </div>
+  
+  </footer>
