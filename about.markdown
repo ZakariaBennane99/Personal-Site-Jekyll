@@ -27,8 +27,9 @@ My YouTube playlist is a mosaic of curiosity:
 + [James Jani](https://www.youtube.com/@JamesJani)
 + [Oliver Knill](https://www.youtube.com/@OliverKnill)
 + [Garry Tan](https://www.youtube.com/@GarryTan)
-\
+
+
 And "The Great Gatsby"? It's a film that captures the essence of ambition and the beauty of a dream.
 
-So this is me. Not just a bio, but an invitation. To connect, to explore, and to create – not just a business, but a shared journey towards something remarkable. Let's connect via Twitter or LinkedIn.
+So this is me. Not just a bio, but an invitation. To connect, to explore, and to create – not just a business, but a shared journey towards something remarkable.
 
