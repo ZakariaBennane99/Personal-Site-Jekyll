@@ -21,12 +21,13 @@ My Spotify soundtrack is a window into my soul. [Here its link](https://open.spo
 "My First Million" podcast stokes the fires of entrepreneurship.\
 "Mafia I and II" are my digital getaways where narratives and nostalgia blend.\
 "Outliers" by Malcolm Gladwell sparked a revolution in my thinking.\
-My YouTube playlist is a mosaic of curiosity:\
+My YouTube playlist is a mosaic of curiosity:
 + [FireShip](https://www.youtube.com/@Fireship)
 + [Y Combinator](https://www.youtube.com/@ycombinator)
 + [James Jani](https://www.youtube.com/@JamesJani)
 + [Oliver Knill](https://www.youtube.com/@OliverKnill)
-+ [Garry Tan](https://www.youtube.com/@GarryTan)\
++ [Garry Tan](https://www.youtube.com/@GarryTan)
+\
 And "The Great Gatsby"? It's a film that captures the essence of ambition and the beauty of a dream.
 
 So this is me. Not just a bio, but an invitation. To connect, to explore, and to create – not just a business, but a shared journey towards something remarkable. Let's connect via Twitter or LinkedIn.
