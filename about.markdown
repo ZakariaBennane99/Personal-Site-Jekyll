@@ -31,5 +31,5 @@ Here's a slice of my world – the tunes, tales, and tech that inspire me:
 
 And **The Great Gatsby**? It's a film that captures the essence of ambition and the beauty of a dream.
 
-So this is me. I'd love to connect with you, you can hit me up on Twitter or m
+So this is me. I'd love to connect with you, you can hit me up on Twitter or LinkedIn.
 
