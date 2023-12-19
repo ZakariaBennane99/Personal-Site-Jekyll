@@ -5,12 +5,30 @@ permalink: /about/
 ---
 
 ### In Short
-A Cat Lover 😺 | Nature Person 🍃 | HSP 🐼 | Global Citizen 🌎 | maker 🧑‍💻 | Thinker & DayDreamer 🧠 | Introvert 😶
+Just a soul navigating the vast digital and natural world. 🍃 An INFJ-A - I weave visions into strategies and breathe life into ideas with a blend of intuition and thoughtfulness. I'm a Cat Whisperer by morning 😺, and business Tinkerer by day 🧑‍💻
 
 
 ### A Little More
 
-Hey! I was born in [this](https://en.wikipedia.org/wiki/Casablanca) city during the dot com bubble. I worked in a variety of jobs, from sewing beds at Souk “Al Qurayaa” in my native city at 9 to varnishing wood at my uncle’s workshop. Currently, I’m studying for a BBA, sharing my toughts, and making things.
+I'm the person behind the screen who's just as likely to lose track of time in the serene embrace of nature as in the rhythmic dance of code on a computer. Born during the echo of the dot-com era, my life's work is a tapestry of varied threads – from stitching together dreams at Souk “Al Qurayaa” to crafting creations in my uncle's workshop.
 
-I recently discovered that I’m an HSP -- **Highly Sensitive Person**. The more I read and learn, the more I became aware of myself. I’m already an Assertive Defender (you can read about it [here](https://www.16personalities.com/profiles/39fcc76411111)), and I know I have an unsatiable appetite for new experiences and challenges. Now, I’m trying to further discover myself by connecting with other people, offering value through my projects, and taking up some crazy challenges.
+Now, with a freshly minted BBA in hand, I'm stepping into a new chapter, where the lessons learned are just as valuable as the diploma itself.
+
+I've realized I’m an HSP, which means I feel deeply and think profoundly – traits that fuel my passion for business and technology. As an INFJ-A, my journey is one of purpose and possibility. I'm quietly leading, often taking the road less traveled to reach destinations not just dreamed of but made real.
+
+Here's a slice of my world – the tunes, tales, and tech that inspire me:
+
+My Spotify soundtrack is a window into my soul. [Here its link](https://open.spotify.com/playlist/2N1n0vP0bRWK8SxhEzNcWv?si=1945a43500664dd7)
+"My First Million" podcast stokes the fires of entrepreneurship.
+"Mafia I and II" are my digital getaways where narratives and nostalgia blend.
+"Outliers" by Malcolm Gladwell sparked a revolution in my thinking.
+My YouTube playlist is a mosaic of curiosity:
++ [FireShip](https://www.youtube.com/@Fireship)
++ [Y Combinator](https://www.youtube.com/@ycombinator)
++ [James Jani](https://www.youtube.com/@JamesJani)
++ [Oliver Knill](https://www.youtube.com/@OliverKnill)
++ [Garry Tan](https://www.youtube.com/@GarryTan)
+And "The Great Gatsby"? It's a film that captures the essence of ambition and the beauty of a dream.
+
+So this is me. Not just a bio, but an invitation. To connect, to explore, and to create – not just a business, but a shared journey towards something remarkable. Let's connect via Twitter or LinkedIn.
 
