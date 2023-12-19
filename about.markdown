@@ -18,9 +18,9 @@ I've realized I’m an HSP, which means I feel deeply and think profoundly – t
 
 Here's a slice of my world – the tunes, tales, and tech that inspire me:
 - My Spotify soundtrack is a window into my soul. [Here its link](https://open.spotify.com/playlist/2N1n0vP0bRWK8SxhEzNcWv?si=1945a43500664dd7)
-- "My First Million" podcast stokes the fires of entrepreneurship.
-- "Mafia I and II" are my digital getaways where narratives and nostalgia blend.
-- "Outliers" by Malcolm Gladwell sparked a revolution in my thinking.
+- **My First Million** podcast stokes the fires of entrepreneurship.
+- **Mafia I and II** are my digital getaways where narratives and nostalgia blend.
+- **Outliers** by Malcolm Gladwell sparked a revolution in my thinking.
 - My YouTube playlist is a mosaic of curiosity:
     - [FireShip](https://www.youtube.com/@Fireship)
     - [Y Combinator](https://www.youtube.com/@ycombinator)
@@ -29,7 +29,7 @@ Here's a slice of my world – the tunes, tales, and tech that inspire me:
     - [Garry Tan](https://www.youtube.com/@GarryTan)
 
 
-And "The Great Gatsby"? It's a film that captures the essence of ambition and the beauty of a dream.
+And **The Great Gatsby**? It's a film that captures the essence of ambition and the beauty of a dream.
 
 So this is me. I'd love to connect with you, you can hit me up on Twitter or m
 
