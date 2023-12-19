@@ -16,20 +16,20 @@ Now, with a freshly minted BBA in hand, I'm stepping into a new chapter, where t
 
 I've realized I’m an HSP, which means I feel deeply and think profoundly – traits that fuel my passion for business and technology. As an INFJ-A, my journey is one of purpose and possibility. I'm quietly leading, often taking the road less traveled to reach destinations not just dreamed of but made real.
 
-Here's a slice of my world – the tunes, tales, and tech that inspire me:\
-My Spotify soundtrack is a window into my soul. [Here its link](https://open.spotify.com/playlist/2N1n0vP0bRWK8SxhEzNcWv?si=1945a43500664dd7)\
-"My First Million" podcast stokes the fires of entrepreneurship.\
-"Mafia I and II" are my digital getaways where narratives and nostalgia blend.\
-"Outliers" by Malcolm Gladwell sparked a revolution in my thinking.\
-My YouTube playlist is a mosaic of curiosity:
-+ [FireShip](https://www.youtube.com/@Fireship)
-+ [Y Combinator](https://www.youtube.com/@ycombinator)
-+ [James Jani](https://www.youtube.com/@JamesJani)
-+ [Oliver Knill](https://www.youtube.com/@OliverKnill)
-+ [Garry Tan](https://www.youtube.com/@GarryTan)
+Here's a slice of my world – the tunes, tales, and tech that inspire me:
+- My Spotify soundtrack is a window into my soul. [Here its link](https://open.spotify.com/playlist/2N1n0vP0bRWK8SxhEzNcWv?si=1945a43500664dd7)
+- "My First Million" podcast stokes the fires of entrepreneurship.
+- "Mafia I and II" are my digital getaways where narratives and nostalgia blend.
+- "Outliers" by Malcolm Gladwell sparked a revolution in my thinking.
+- My YouTube playlist is a mosaic of curiosity:
+    - [FireShip](https://www.youtube.com/@Fireship)
+    - [Y Combinator](https://www.youtube.com/@ycombinator)
+    - [James Jani](https://www.youtube.com/@JamesJani)
+    - [Oliver Knill](https://www.youtube.com/@OliverKnill)
+    - [Garry Tan](https://www.youtube.com/@GarryTan)
 
 
 And "The Great Gatsby"? It's a film that captures the essence of ambition and the beauty of a dream.
 
-So this is me. Not just a bio, but an invitation. To connect, to explore, and to create – not just a business, but a shared journey towards something remarkable.
+So this is me. I'd love to connect with you, you can hit me up on Twitter or m
 
