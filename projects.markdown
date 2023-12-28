@@ -14,6 +14,6 @@ After a year long learning all I could about web developement, I decided to buil
 ### SumBroo
 Tried building a plugin that used GPT-4 to summarize LinkedIn video courses. However, I couldn't monetize it. So, I used its design for SumBroo, an idea I had last summer. The concept? Applying the idea of blog posting to social media, but on a larger scale. 
 
-[Proderto.com](https://sumbroo.com/)
+[SumBroo.com](https://sumbroo.com/)
 
-[Proderto GitHub Repo](https://github.com/ZakariaBennane99/SumBroo) 
+[SumBroo GitHub Repo](https://github.com/ZakariaBennane99/SumBroo) 
